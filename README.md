@@ -1,16 +1,19 @@
-### Hi there 👋
+# Gliz
 
-<!--
-**glixxzzy/glixxzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/glixxzzy/count.svg" />
+  
 
-Here are some ideas to get you started:
+## Glixxzzy's Support Discord
+[![Developer Discord](https://discordapp.com/api/guilds/977054822152957992/widget.png?style=banner4)](https://discord.com/invite/WTV8sYbe4RY)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Information
+
+Fluent in 💾: Python, Lua, HTML/CSS, JavaScript
+
+## Miscellaneous
+
+Sponsor me ❤️: https://github.com/sponsors/glixxzzy
+
+## GitHub Contribution Statistics
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=glixxzzy)
