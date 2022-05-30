@@ -8,7 +8,7 @@
   
 
 ## Glixxzzy's Support Discord
-[![Developer Discord](https://discordapp.com/api/guilds/977054822152957992/widget.png?style=banner4)](https://discord.com/invite/WTV8sYbe4RY)
+[![Developer Discord](https://discordapp.com/api/guilds/977054822152957992/widget.png?style=banner4)](https://discord.com/invite/TV8sYbe4RY)
 
 ## Information
 
