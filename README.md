@@ -1,5 +1,8 @@
 # Gliz
 
+## Coder Of The Blooket Hacks
+[Blooket Hacks](https://github.com/glixxzzy/blooket-hack/)
+
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/glixxzzy/count.svg" />
   
