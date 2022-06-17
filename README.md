@@ -14,7 +14,7 @@
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/glixxzzy)
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/glixxzzy)
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCmPExFZp280zUxJbhyS9ZFA?view_as=subscriber)
-[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](glixxzzy@gmail.com)
+[![Contact Me](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png)](mailto:glixxzzy@gmail.com)
 
 ## Information
 
