@@ -6,6 +6,7 @@ I am the original Gliz, the one who was banned so stay assured [glixxzzy](https:
 
 ## Coder of ALOT of Blooket API
 [Blooket Hacks](https://github.com/glixxzzy/blooket-hack/)
+
 [Blooket Wrapper](https://github.com/glixxzzy/blooket-wrapper/)
 
 ## Visitor Count
