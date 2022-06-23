@@ -1,10 +1,6 @@
 # Gliz
 
-## Fakes
-Hi, this is gliz the coder of the Blooket hacks! Notice: I have seen MANY fakes recently, I will be taking legal action if you create a fake profile in my name.
-I am the original Gliz, the one who was banned so stay assured [glixxzzy](https://github.com/glixxzzy) is the only real Gliz unless I say in my Discord.
-
-## Coder of ALOT of Blooket API
+## Blooket Enthusiast
 [Blooket Hacks](https://github.com/glixxzzy/blooket-hack/)
 
 [Blooket Wrapper](https://github.com/glixxzzy/blooket-wrapper/)
