@@ -1,7 +1,7 @@
 # Gliz
 
 ## I'm Back
-The long hard jounrney I've been through, guess I'm back.
+The long hard journey I've been through, guess I'm back.
 
 ## Blooket Enthusiast
 [Blooket Hacks](https://github.com/glixxzzy/blooket-hack/)
